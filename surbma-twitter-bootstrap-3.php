@@ -3,8 +3,9 @@
 /*
 Plugin Name: Surbma - Twitter Bootstrap 3
 Plugin URI: http://surbma.com/
+GitHub Plugin URI: https://github.com/Surbma/surbma-twitter-bootstrap-3
 Description: Twitter Bootstrap 3
-Version: 1.0.0
+Version: 1.1.0
 Author: Surbma
 Author URI: http://surbma.com/
 License: GPL2
