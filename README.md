@@ -1,21 +1,24 @@
-surbma-twitter-bootstrap
-=========
+# Surbma - Twitter Bootstrap 3
 
-Surbma - Twitter Bootstrap
+## Changelog
 
-Changelog
-===========
+**1.3.0**
 
-### 121008
-* Initial Public Release
+- Updated to Bootstrap 3.0.3
+- Removed Glyphicons
+- Removed Badges
+- Removed Progress bars
+- Fixed all WordPress related bugs in css
+- Added $allowedposttags for buttons
 
-Credits
-===========
+**121008**
+- Initial Public Release
 
-This plugin is built and maintained by [Peter Ambrus](http://surbma.hu)
+## Credits
 
-License
-===========
+This plugin is built and maintained by [Surbma](http://surbma.com)
+
+## License
 
 This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
 
