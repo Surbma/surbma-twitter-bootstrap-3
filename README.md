@@ -1,5 +1,9 @@
 # Surbma - Twitter Bootstrap 3
 
+## Credits
+
+This plugin is built and maintained by [Surbma](http://surbma.com)
+
 ## Changelog
 
 **1.3.0**
@@ -14,10 +18,6 @@
 **121008**
 
 - Initial Public Release
-
-## Credits
-
-This plugin is built and maintained by [Surbma](http://surbma.com)
 
 ## License
 
