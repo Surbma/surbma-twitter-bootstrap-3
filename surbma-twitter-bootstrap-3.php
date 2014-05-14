@@ -5,7 +5,7 @@ Plugin Name: Surbma - Twitter Bootstrap 3
 Plugin URI: http://surbma.com/
 GitHub Plugin URI: Surbma/surbma-twitter-bootstrap-3
 Description: Twitter Bootstrap 3
-Version: 1.3.0
+Version: 1.4.0
 Author: Surbma
 Author URI: http://surbma.com/
 License: GPL2
@@ -24,8 +24,8 @@ function surbma_twitter_bootstrap_scripts() {
 add_action( 'wp_footer', 'surbma_twitter_bootstrap_scripts' );
 
 function surbma_twitter_bootstrap_enqueue_scripts() {
-	wp_enqueue_script( 'bootstrap-scripts', plugins_url( '', __FILE__ ) . '/js/bootstrap.min.js', array( 'jquery' ), '3.0.3', true );
-	wp_enqueue_style( 'bootstrap-styles', plugins_url( '', __FILE__ ) . '/css/bootstrap.min.css', false, '3.0.3' );
+	wp_enqueue_script( 'bootstrap-scripts', plugins_url( '', __FILE__ ) . '/js/bootstrap.min.js', array( 'jquery' ), '3.1.1', true );
+	wp_enqueue_style( 'bootstrap-styles', plugins_url( '', __FILE__ ) . '/css/bootstrap.css', false, '3.1.1' );
 }
 add_action( 'wp_enqueue_scripts', 'surbma_twitter_bootstrap_enqueue_scripts' );
 

@@ -1,10 +1,42 @@
 # Surbma - Twitter Bootstrap 3
 
+## Less files
+
+- Tables
+- Buttons
+- Navs
+- Labels
+- Alerts
+- List groups
+- Panels
+- Wells
+- Close icon
+- Component animations (for JS)
+- Tooltips
+- Popovers
+- Modals
+
+## jQuery plugins
+
+- Modals
+- Tooltips
+- Popovers
+- Togglable tabs 
+- Collapse
+- Transitions
+
 ## Credits
 
 This plugin is built and maintained by [Surbma](http://surbma.com)
 
 ## Changelog
+
+**1.4.0**
+
+- Twitter Bootstrap 3.1.1
+- Removed fonts
+- Removed bootstrap.min.css
+- Removed bootstrap.js
 
 **1.3.0**
 
