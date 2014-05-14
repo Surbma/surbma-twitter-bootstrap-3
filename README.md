@@ -12,6 +12,7 @@
 - Added $allowedposttags for buttons
 
 **121008**
+
 - Initial Public Release
 
 ## Credits
