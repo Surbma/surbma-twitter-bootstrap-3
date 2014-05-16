@@ -1765,6 +1765,9 @@ span.tip,span.pop{border-bottom: 1px dotted #aaa;cursor:help;}
 .modal-header *{padding:0 !important;margin:0 !important;clear:none;}
 a.btn,a.btn:hover{color:#fff;text-decoration:none;}
 a.btn.btn-default,a.btn.btn-default:hover{color:#333;}
+a.btn.btn-link{color: #428bca;}
+a.btn.btn-link:hover,a.btn.btn-link:focus{color:#2a6496;}
+
 
 .nav:before,
 .nav:after,
