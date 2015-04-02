@@ -46,6 +46,11 @@ You've set up a template for your titles, but things get added to it when they'r
 
 == Changelog ==
 
+= 1.4.2 =
+
+- Fix localization.
+- Prevent direct access to the plugin.
+
 = 20120529 =
 
 * First stable version.
